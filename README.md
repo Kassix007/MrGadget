@@ -1,2 +1,1 @@
-# MrGadget
-PHP ecommerce web app with MySQL database for web module assignment
+Web assignment 2 2116298
